@@ -1,4 +1,7 @@
-//actyalizar repositorios 
+//ver estado
+git status
+
+//actualizar repositorios 
 git pull origin master
 //subir cambios
 git add .
