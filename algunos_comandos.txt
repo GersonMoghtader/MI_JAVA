@@ -1,0 +1,6 @@
+//actyalizar repositorios 
+git pull origin master
+//subir cambios
+git add .
+git commit -m ""
+git push origin master
