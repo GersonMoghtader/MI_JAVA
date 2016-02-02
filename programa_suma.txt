@@ -1,0 +1,7 @@
+
+int n1,n2,n3;
+ cout<<"Ingrese numero1:"; cin>>n1;
+ cout<<"Ingrese numero2:"; cin>>n2;
+ n3=n1+n2;
+ cout<<"La suma de los numeros es:"<<n3;
+
