@@ -4,12 +4,16 @@
 .mtj.tmp/
 
 # Package Files #
+<<<<<<< HEAD
 *.jar
+=======
+>>>>>>> 5f8b001b734b875ca63182c82db94575b5c7de11
 *.war
 *.ear
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 /clase01/PedidoApp/nbproject/private/
 /clase01/PedidoApp/build/
 /clase02/AprendiendoJava/nbproject/private/
@@ -26,3 +30,35 @@ hs_err_pid*
 /clase03/AprendiendoJava/build/
 /clase03/VentaApp/nbproject/private/
 /clase03/VentaApp/build/
+=======
+/CLASE01/PedidoApp/nbproject/private/
+/CLASE01/PedidoApp/build/
+/CLASE02/AprendiendoJava/nbproject/private/
+/CLASE02/AprendiendoJava/build/
+/CLASE02/PagoApp/nbproject/private/
+/CLASE02/PagoApp/build/
+/CLASE02/Michael/viaexitos/build/
+/CLASE02/Michael/viaexitos/nbproject/private/
+/Michael/Lec03_Sobrecarga/Perulib/nbproject/private/
+/Michael/Lec03_Sobrecarga/SSlib/build/
+/Michael/Lec03_Sobrecarga/SSlib/dist/
+/Michael/Lec03_Sobrecarga/SSlib/nbproject/private/
+/Michael/Lec03_Sobrecarga/UsoSSlib/build/
+/Michael/Lec03_Sobrecarga/UsoSSlib/nbproject/private/
+/Michael/Lec03_Sobrecarga/Perulib/build/
+/Michael/Edutec/nbproject/private/
+/Michael/Edutec/build/
+/CLASE02/EduTecLib/nbproject/private/
+/CLASE02/EduTecLib/build/
+/CLASE02/EduTecLib/dist/
+/CLASE02/EduTecApp/nbproject/private/
+/CLASE02/EduTecApp/build/
+/CLASE03/MateApp/nbproject/private/
+/CLASE03/MateApp/build/
+/CLASE03/AprendiendoJava/nbproject/private/
+/CLASE03/AprendiendoJava/build/
+/CLASE03/VentaApp/nbproject/private/
+/CLASE03/VentaApp/build/
+>>>>>>> 5f8b001b734b875ca63182c82db94575b5c7de11
+/clase04/AprendiendoJava/nbproject/private/
+/clase04/AprendiendoJava/build/
